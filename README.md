@@ -8,4 +8,4 @@ An online portfolio webpage showing the representation of my work, skills and ex
  To showcase the my experience and the wide range of projects I did during my course. 
  
  # Technology Used
- HTML,SCSS,CSS,JavaScript,Github
+ HTML, SCSS, CSS, JavaScript, Github
