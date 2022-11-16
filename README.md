@@ -1,3 +1,9 @@
+# Portfolio Image
+![image](https://user-images.githubusercontent.com/79642065/202053977-ce6a069d-b660-4f5e-938f-917f442de213.png)
+
+# Link 
+https://thirthamk.github.io/Portfolio/portfolio.html
+
 # Portfolio-webpage
 An online portfolio webpage showing the representation of my work, skills and experiences along with my contact details. I created it using html and scss. 
 
